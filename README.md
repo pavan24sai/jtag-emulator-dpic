@@ -1,4 +1,4 @@
-# JTAG Mock Implementation Project using SystemVerilog DPI-C
+# JTAG Boundary Scan Emulator using SystemVerilog DPI-C
 
 ## Project Description
 
