@@ -1,4 +1,4 @@
-# JTAG Mock Implementation Project
+# JTAG Mock Implementation Project using SystemVerilog DPI-C
 
 ## Project Description
 
